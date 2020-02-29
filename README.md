@@ -14,3 +14,5 @@ The new Bitcoinhot mainnet was officially launched at 20:20, 02/20/2020.
 Website: http://bithot.org
 
 Explorer: http://scan.bithot.org
+
+E-mail: dev@bithot.org
